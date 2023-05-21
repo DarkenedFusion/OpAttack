@@ -1,0 +1,4 @@
+name: opattack
+version: 1.0
+main: opattack.Main
+author: Fusion
